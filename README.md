@@ -22,6 +22,6 @@
 
 ## Screenshots:
 
-![](https://github.com/31lalit/dashboard.git)
-![](https://github.com/31lalit/output.git)
+![dashboard](https://github.com/31lalit/dashboard.git)
+![output](https://github.com/31lalit/output.git)
 

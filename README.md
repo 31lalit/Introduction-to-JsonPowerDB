@@ -15,3 +15,7 @@
 3. It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
 4. It is low level (raw) form of data and is also human readable.
 5. It helps developers in faster coding, in-turn reduces development cost.
+
+## Release History
+
+- [1.0!](https://github.com/31lalit/Introduction-to-JsonPowerDB.git)

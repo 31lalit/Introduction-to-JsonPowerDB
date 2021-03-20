@@ -23,5 +23,5 @@
 ## Screenshots:
 
 ![dashboard](https://github.com/31lalit/dashboard.git)
-![output](https://github.com/31lalit/output.git)
+![output](https://github.com/31lalit/output/blob/master/output.PNG)
 

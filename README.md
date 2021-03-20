@@ -22,6 +22,6 @@
 
 ## Screenshots:
 
-![dashboard](https://github.com/31lalit/dashboard.git)
+![dashboard](https://github.com/31lalit/dashboard/blob/master/dashboard.PNG)
 ![output](https://github.com/31lalit/output/blob/master/output.PNG)
 
